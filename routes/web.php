@@ -48,6 +48,7 @@ Route::get('/teste1', function () {
     return view('teste1');
 });
 
+
 // usage inside a laravel route
 /*Route::get('/', function()
 {
